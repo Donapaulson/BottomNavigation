@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bottom Navigation</string>
+
+    <string name="title_group">Group Fragment</string>
+    <string name="title_music">Music Fragment</string>
+    <string name="title_ok">OK Fragment</string>
+</resources>

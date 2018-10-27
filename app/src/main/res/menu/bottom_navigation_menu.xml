@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/group"
+        android:icon="@drawable/group"
+        android:title="Group"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/music"
+        android:icon="@drawable/music"
+        android:title="Music"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/ok"
+        android:icon="@drawable/check"
+        android:title="Done"
+        app:showAsAction="always"/>
+
+
+</menu>
